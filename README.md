@@ -10,6 +10,8 @@ problem: error with libv8-node (16.10.0.0)
 
 solution: https://github.com/alshedivat/al-folio/issues/691#issuecomment-1309072582
 
+instead of using gem 'wdm', use gem 'listen', or it will generate error in deployment
+
 
 
 problem: error with medium.com 
