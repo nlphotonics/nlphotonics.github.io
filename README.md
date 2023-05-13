@@ -1,4 +1,47 @@
 # al-folio
+
+problem: docker will take up huge space in C disk
+
+solution: use standard local setup (Ruby and Bundler)
+
+
+
+problem: error with libv8-node (16.10.0.0)
+
+solution: https://github.com/alshedivat/al-folio/issues/691#issuecomment-1309072582
+
+
+
+problem: error with medium.com 
+
+solution: https://github.com/alshedivat/al-folio/issues/691#issuecomment-1383191677 and delete the twitter markdown file under \\_posts\\
+
+
+
+problem: log_adapter.rb:in ‘gsub’: invalid byte sequence in UTF-8
+
+solution: change the corresponding argument to gsub(“ ”, “ ”)
+
+
+
+problem: Imagemagick error with webp
+
+solution: in _config.yml, search for imagemagick, change enabled to false
+
+
+
+problem: Permission denied - bind(2) for x.x.x.x:xxxx (Errno::EACCES)  (not because this port has already been occupied)
+
+solution: close VPN, and retry
+
+
+
+Can’t believe I have made this! 
+
+Much thanks to New Bing. (You should ask New Bing before you give up)
+
+
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [maintainers]: https://img.shields.io/badge/maintainers-4-success.svg 'Number of maintainers'
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -404,8 +447,8 @@ If you have a different question, please ask using [Discussions](https://github.
 4. **Q:** Atom feed doesn't work. Why?
    <br>
    **A:** Make sure to correctly specify the `url` and `baseurl` paths in `_config.yml`.
-  RSS Feed plugin works with these correctly set up fields: `title`, `url`, `description` and `author`.
-  Make sure to fill them in an appropriate way and try again.
+    RSS Feed plugin works with these correctly set up fields: `title`, `url`, `description` and `author`.
+    Make sure to fill them in an appropriate way and try again.
 
 5. **Q:** My site doesn't work when I enable `related_blog_posts`. Why? <br>
    **A:** This is probably due to the [classifier reborn](https://github.com/jekyll/classifier-reborn) plugin, which is used to calculate
