@@ -19,4 +19,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Nonlinear optical systems and complex dynamics. For example, solitons in mode-locked lasers. 
+My interests emerge when optics and photonics meet with nonlinear dynamics and complex systems. Some of the topics are listed below: 
+
+- Lasers and mode-locking (laser is a fascinating platform)
+
+- Optical solitons (mainly in optical fibers, also in microresonators)
+- Non-Hermitian and PT-symmetric systems (I just started to look at it)
+- Attosecond physics (I will look at it)
+- Topology (this topic appears many times… but I hardly know anything about it)
+
