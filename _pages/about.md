@@ -26,5 +26,8 @@ My interests emerge when optics and photonics meet with nonlinear dynamics and c
     <li>Optical solitons (mainly in optical fibers, also in microresonators)</li>
     <li>Non-Hermitian and PT-symmetric systems (I just started to look at it)</li>
     <li>Attosecond physics (I will look at it)</li>
-    <li>Topology (this topic appears many times… but I hardly know anything about it)</li>
+    <li>Topological photonics (I will pay attention to it... this topic appears many times but I hardly know anything about it)</li>
 </ul>
+
+
+I want to understand the complex structures and dynamics of photonic systems, then find ways to control it, and finally make use of it. 
