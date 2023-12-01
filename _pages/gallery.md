@@ -14,6 +14,14 @@ nav_order: 2
 
 
 <div class="row justify-content-sm-center">
+    <div class="col-sm-9 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/gallery/IMG_4037.jpg" title="phases of the birds" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+
+
+<div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.html path="assets/img/gallery/IMG_3683.jpg" title="mountain-1" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
@@ -90,4 +98,3 @@ nav_order: 2
         {% include figure.html path="assets/img/gallery/IMG_8226.jpg" title="landmarks of Shanghai" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
-
