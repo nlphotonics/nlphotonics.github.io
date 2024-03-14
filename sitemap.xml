@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://nlphotonics.github.io/news/announcement_1/</loc>
-<lastmod>2015-10-22T19:59:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://nlphotonics.github.io/news/announcement_2/</loc>
-<lastmod>2015-11-07T20:11:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://nlphotonics.github.io/news/announcement_3/</loc>
-<lastmod>2016-01-15T11:59:00+00:00</lastmod>
-</url>
-<url>
 <loc>https://nlphotonics.github.io/blog/2023/rules-of-nature/</loc>
 <lastmod>2023-11-11T00:00:00+00:00</lastmod>
 </url>
 <url>
+<loc>https://nlphotonics.github.io/blog/2024/rational/</loc>
+<lastmod>2024-03-14T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>https://nlphotonics.github.io/projects/1_project/</loc>
-<lastmod>2023-12-01T08:54:55+00:00</lastmod>
+<lastmod>2024-03-14T22:40:29+00:00</lastmod>
 </url>
 <url>
 <loc>https://nlphotonics.github.io/</loc>
@@ -33,9 +25,9 @@
 <loc>https://nlphotonics.github.io/projects/</loc>
 </url>
 <url>
-<loc>https://nlphotonics.github.io/publications/</loc>
+<loc>https://nlphotonics.github.io/blog/2023/</loc>
 </url>
 <url>
-<loc>https://nlphotonics.github.io/blog/2023/</loc>
+<loc>https://nlphotonics.github.io/blog/2024/</loc>
 </url>
 </urlset>
