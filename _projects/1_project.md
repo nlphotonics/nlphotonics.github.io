@@ -2,7 +2,7 @@
 layout: page
 title: Heterogeneously integrated ferroelectrics (semester project)
 description: Characterize photonic integrated chips at K-lab.
-img: assets/img/12.jpg
+img: assets/img/SIL tuning.png
 importance: 1
 category: 
 ---
