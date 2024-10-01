@@ -25,7 +25,7 @@ My interests emerge when **optics & photonics** meet with **nonlinear dynamics &
     <li>Optical frequency combs and optical solitons, e.g. in fibers and microresonators</li>
     <li>Attosecond physics and light-matter interaction</li>
     <li>Optomechanics</li>
-    <li>Non-Hermitian and PT-symmetric systems in photonics</li>
+    <li>Quantum light sources</li>
     <li>Topological photonics</li>
 </ul>
 
