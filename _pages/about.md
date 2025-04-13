@@ -23,11 +23,11 @@ My interests emerge when **optics & photonics** meet with **nonlinear dynamics &
 <ul>
     <li>Lasers and mode-locking (laser is a fascinating platform showing emblematic emergent phenomena and it is also very useful in science and engineering)</li>
     <li>Optical frequency combs and optical solitons, e.g. in fibers and microresonators</li>
-    <li>Attosecond physics and light-matter interaction</li>
-    <li>Optomechanics</li>
+    <li>Precision measurement and noise in photonics (The mutual interaction between the noise process (classical and quantum) and dynamics of the system, for example, the phase diffusion in a semiconductor laser can be modified due to the amplitude-phase coupling through the medium)</li>
+    <li>Ultrafast and nano-scale light-matter interaction</li>
     <li>Quantum light sources</li>
-    <li>Topological photonics</li>
 </ul>
+
 
 
 
