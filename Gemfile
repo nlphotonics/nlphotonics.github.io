@@ -1,26 +1,22 @@
 source 'https://rubygems.org'
+
+gem 'jekyll', '~> 4.4'
+
 group :jekyll_plugins do
-    gem 'classifier-reborn'
-    gem 'jekyll'
-    gem 'jekyll-archives'
-    gem 'jekyll-diagrams'
-    gem 'jekyll-email-protect'
-    gem 'jekyll-imagemagick'
-    gem 'jekyll-link-attributes'
-    gem 'jekyll-minifier'
-    gem 'jekyll-paginate-v2'
-    gem 'jekyll-scholar'
-    gem 'jekyll-toc'
-    gem 'jekyll-twitter-plugin'
-    gem 'jemoji'
-    # gem 'mini_racer'
-    gem 'unicode_utils'
-    gem 'webrick'
-    gem 'listen'
-    gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+  gem 'jekyll-3rd-party-libraries'
+  gem 'jekyll-archives-v2'
+  gem 'jekyll-cache-bust'
+  gem 'jekyll-paginate-v2'
+  gem 'jekyll-scholar'
+  gem 'jekyll-socials'
+  gem 'jekyll-toc'
 end
-group :other_plugins do
-    gem 'feedjira'
-    gem 'httparty'
-    
+
+# Runtime versions from the al-folio v1.2 release.
+group :al_folio_plugins do
+  gem 'al_folio_core', '= 1.0.15'
+  gem 'al_folio_upgrade', '= 1.0.3'
+  gem 'al_icons', '= 1.0.0'
+  gem 'al_img_tools', '= 1.0.3'
+  gem 'al_math', '= 1.0.2'
 end

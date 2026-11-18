@@ -8,12 +8,16 @@ profile:
   align: right
   image: kumiko.jpg
   image_circular: false # crops the image to make it circular
-  address: >
+  more_info: >
     <p>1015 Lausanne</p>
 
 
-news: false # includes a list of news items
-latest_posts: true # includes a list of the newest posts
+announcements:
+  enabled: false
+latest_posts:
+  enabled: true
+  scrollable: true
+  limit: 3
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
